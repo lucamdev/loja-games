@@ -1,0 +1,13 @@
+main{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#section-login{
+height: 100%;
+width: 400px;
+border-radius: 10px;
+border: 2pxsolidblack;
+padding: 10px20px;
+margin-top: 50px;
+}
